@@ -10,7 +10,7 @@
 <br>
 [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
 <br>
-[吴恩达-机器学习](http://open.163.com/special/opencourse/machinelearning.html)
+[吴恩达-机器学习](http://open.163.com/special/opencourse/machinelearning.html) [学习讲义](http://cs229.stanford.edu/syllabus.html)
 <br>
 [李飞飞-深度学习计算机视觉](http://study.163.com/course/introduction/1003223001.htm)
 
