@@ -1,4 +1,4 @@
-# Learn-A.I.-From-Zero
+# Learn A.I. From Zero
 
 ## Step1:熟悉Python
 [Python](https://www.python.org/)
@@ -9,6 +9,8 @@
 [李宏毅 / 一天搞懂深度學習 PPT](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3)
 <br>
 [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
+<br>
+[吴恩达机器学习公开课](http://open.163.com/special/opencourse/machinelearning.html)
 
 ## Step3:会使用一个主流框架
 [MXNet](https://mxnet.apache.org/)
