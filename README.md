@@ -19,6 +19,4 @@
 <br>
 [TensorFlow](https://www.tensorflow.org/?hl=zh-cn)
 <br>
-[Caffe](http://caffe.berkeleyvision.org/)
-<br>
-MacOS下安装较为复杂，可同时参考[官网](http://caffe.berkeleyvision.org/installation.html#compilation)和[本人实际安装教程建议](https://github.com/BigabilityLiu/MyWikis/wiki/Install-Caffe--in-Mac-OS)
+[Caffe](http://caffe.berkeleyvision.org/)（MacOS下安装较为复杂，可同时参考[官网](http://caffe.berkeleyvision.org/installation.html#compilation)和[本人实际安装教程建议](https://github.com/BigabilityLiu/MyWikis/wiki/Install-Caffe--in-Mac-OS)）
