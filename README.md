@@ -7,6 +7,7 @@
 
 ## Step2:了解深度学习基础概念
 [使用MXNet学习人工智能](http://gluon.mxnet.io/chapter01_crashcourse/ndarray.html#Getting-started)
+<br>
 [李宏毅 / 一天搞懂深度學習 PPT](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3)
 <br>
 [零基础入门深度学习](https://www.zybuluo.com/hanbingtao/note/433855)
