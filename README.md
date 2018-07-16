@@ -6,7 +6,11 @@
 [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
 ## Step2:了解深度学习基础概念
-[使用MXNet学习人工智能 中文版](http://zh.gluon.ai/index.html)   [English Verison](http://gluon.mxnet.io/chapter01_crashcourse/ndarray.html#Getting-started)
+[使用MXNet学习人工智能 中文版](http://zh.gluon.ai/index.html)   
+<br>
+[English Verison](http://gluon.mxnet.io/chapter01_crashcourse/ndarray.html#Getting-started)
+<br>
+[同步视频](https://space.bilibili.com/209599371/#/video)
 <br>
 [李宏毅 / 一天搞懂深度學習 PPT](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3)
 <br>
